@@ -1,10 +1,6 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: 雨季少年 ’Blog
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
